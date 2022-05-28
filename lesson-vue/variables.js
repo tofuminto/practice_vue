@@ -1,4 +1,4 @@
 const variables={
-	API_URL:"file:///Users/toyamabunnari/Desktop/LessonVue/index.html#/",
-	PHOTO_URL:"file:///Users/toyamabunnari/Desktop/LessonVue/index.html#/photos/"
+	API_URL:"https://localhost:8080/api/",
+	PHOTO_URL:"https://localhost:8080/photos/"
 }
